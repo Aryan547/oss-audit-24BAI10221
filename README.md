@@ -16,6 +16,7 @@ This repository contains the shell scripting component of the Open Source Audit 
 The purpose of this project is to explore open-source philosophy, licensing models, Linux integration, and automation through shell scripting.
 
 All scripts were executed on Ubuntu running through Windows Subsystem for Linux (WSL).
+
 ---
 
 ## Selected Software
